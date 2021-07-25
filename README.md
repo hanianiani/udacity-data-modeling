@@ -1,4 +1,4 @@
-# udacity-data-modeling
+# Udacity Data Engineering
 ## Data modeling with PostgreSQL and Apache Cassandra
 
 This repo contains two folders with projects I completed as part of the Udacity Data Engineering programme: 
