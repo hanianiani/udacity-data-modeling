@@ -1,4 +1,4 @@
-#INTRO
+# INTRO
 
 This is an educational project as part of Udacity Data Engineering Nano Degree Program. All event logs are fictitious, 
 and Sparkify is a made-up company.
